@@ -1,0 +1,8 @@
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\MODEL\bin\Debug\MODEL.dll
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\MODEL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\MODEL\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\MODEL\obj\Debug\MODEL.csproj.CopyComplete
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\MODEL\obj\Debug\MODEL.dll
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\MODEL\obj\Debug\MODEL.pdb

@@ -1,0 +1,14 @@
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\DAL\bin\Debug\DAL.dll.config
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\DAL\bin\Debug\DAL.dll
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\DAL\bin\Debug\DAL.pdb
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\DAL\bin\Debug\MODEL.dll
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\DAL\bin\Debug\MODEL.pdb
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\DAL\obj\Debug\DAL.dll
+C:\Users\Tutku\source\repos\Crud_Ntier_UnitOfWork\DAL\obj\Debug\DAL.pdb

@@ -12,7 +12,7 @@ namespace DAL.Context
     {
         public DataContext()
         {
-            Database.Connection.ConnectionString = @"Server=.; database=SampleCrud; uid=sa; pwd=Tr576300";
+            Database.Connection.ConnectionString = @"Server=.; database=SampleCrud; uid=sa; pwd=1";
         }
 
         public DbSet<Student> Students { get; set; }
